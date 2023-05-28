@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\bin\Debug\net6.0\Infix_to_Postfix.exe
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\bin\Debug\net6.0\Infix_to_Postfix.deps.json
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\bin\Debug\net6.0\Infix_to_Postfix.runtimeconfig.json
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\bin\Debug\net6.0\Infix_to_Postfix.dll
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\bin\Debug\net6.0\Infix_to_Postfix.pdb
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\Infix_to_Postfix.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\Infix_to_Postfix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\Infix_to_Postfix.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\Infix_to_Postfix.AssemblyInfo.cs
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\Infix_to_Postfix.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\Infix_to_Postfix.dll
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\refint\Infix_to_Postfix.dll
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\Infix_to_Postfix.pdb
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\Infix_to_Postfix.genruntimeconfig.cache
+C:\Users\andre\Desktop\csharp\6211\Infix_to_Postfix\Infix_to_Postfix\obj\Debug\net6.0\ref\Infix_to_Postfix.dll

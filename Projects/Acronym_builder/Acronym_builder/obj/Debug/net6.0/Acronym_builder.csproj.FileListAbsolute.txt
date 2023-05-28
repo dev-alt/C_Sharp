@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\bin\Debug\net6.0\Acronym_builder.exe
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\bin\Debug\net6.0\Acronym_builder.deps.json
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\bin\Debug\net6.0\Acronym_builder.runtimeconfig.json
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\bin\Debug\net6.0\Acronym_builder.dll
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\bin\Debug\net6.0\Acronym_builder.pdb
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\Acronym_builder.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\Acronym_builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\Acronym_builder.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\Acronym_builder.AssemblyInfo.cs
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\Acronym_builder.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\Acronym_builder.dll
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\refint\Acronym_builder.dll
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\Acronym_builder.pdb
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\Acronym_builder.genruntimeconfig.cache
+C:\Users\andre\Desktop\csharp\6211\Acronym_builder\Acronym_builder\obj\Debug\net6.0\ref\Acronym_builder.dll

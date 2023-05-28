@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\bin\Debug\net6.0\BankQueue.exe
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\bin\Debug\net6.0\BankQueue.deps.json
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\bin\Debug\net6.0\BankQueue.runtimeconfig.json
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\bin\Debug\net6.0\BankQueue.dll
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\bin\Debug\net6.0\BankQueue.pdb
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\BankQueue.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\BankQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\BankQueue.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\BankQueue.AssemblyInfo.cs
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\BankQueue.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\BankQueue.dll
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\refint\BankQueue.dll
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\BankQueue.pdb
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\BankQueue.genruntimeconfig.cache
+C:\Users\andre\Desktop\csharp\6211\BankQueue\BankQueue\obj\Debug\net6.0\ref\BankQueue.dll

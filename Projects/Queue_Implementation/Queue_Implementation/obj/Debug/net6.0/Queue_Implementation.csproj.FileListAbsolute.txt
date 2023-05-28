@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\Queue_Implementation.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\Queue_Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\Queue_Implementation.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\Queue_Implementation.AssemblyInfo.cs
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\Queue_Implementation.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\bin\Debug\net6.0\Queue_Implementation.exe
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\bin\Debug\net6.0\Queue_Implementation.deps.json
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\bin\Debug\net6.0\Queue_Implementation.runtimeconfig.json
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\bin\Debug\net6.0\Queue_Implementation.dll
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\bin\Debug\net6.0\Queue_Implementation.pdb
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\Queue_Implementation.dll
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\refint\Queue_Implementation.dll
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\Queue_Implementation.pdb
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\Queue_Implementation.genruntimeconfig.cache
+C:\Users\andre\Desktop\csharp\6211\Queue_Implementation\Queue_Implementation\obj\Debug\net6.0\ref\Queue_Implementation.dll
