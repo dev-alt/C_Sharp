@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Factorial_Prac/1.0.0": {
+        "runtime": {
+          "Factorial_Prac.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factorial_Prac/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

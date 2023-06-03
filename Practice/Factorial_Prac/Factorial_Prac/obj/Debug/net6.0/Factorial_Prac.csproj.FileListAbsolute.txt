@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\bin\Debug\net6.0\Factorial_Prac.exe
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\bin\Debug\net6.0\Factorial_Prac.deps.json
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\bin\Debug\net6.0\Factorial_Prac.runtimeconfig.json
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\bin\Debug\net6.0\Factorial_Prac.dll
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\bin\Debug\net6.0\Factorial_Prac.pdb
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\Factorial_Prac.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\Factorial_Prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\Factorial_Prac.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\Factorial_Prac.AssemblyInfo.cs
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\Factorial_Prac.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\Factorial_Prac.dll
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\refint\Factorial_Prac.dll
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\Factorial_Prac.pdb
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\Factorial_Prac.genruntimeconfig.cache
+C:\Users\andre\Desktop\C_Sharp\Practice\Factorial_Prac\Factorial_Prac\obj\Debug\net6.0\ref\Factorial_Prac.dll
