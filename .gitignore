@@ -1,0 +1,54 @@
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+
+# Ignore user-specific files
+*.user
+
+# Ignore build and publish files
+*.publishsettings
+*.pubxml
+*.pfx
+*.snk
+
+# Ignore Resharper files
+_ReSharper*/
+
+# Ignore Visual Studio files
+*.suo
+*.sln.docstates
+*.sln.ide
+*.sln.ide-shm
+*.sln.ide-wal
+*.sln.user
+*.suo
+*.vssscc
+*.vsz
+*.vstemplate
+*.vsmdi
+*.user
+*.userosscache
+*.usertasks
+
+# Ignore other C# related files
+*.csproj.user
+*.cache
+*.bak
+*.bak.*
+*.log
+*.orig
+*.patch
+*.swp
+*.tmp
+*.tmp.*
+*.userprefs
+*.vs
+*.vspscc
+*.vssscc
+*.xap
